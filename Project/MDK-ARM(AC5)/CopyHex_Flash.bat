@@ -1,0 +1,1 @@
+copy Objects\output.hex ..\output(mdkac5).hex
